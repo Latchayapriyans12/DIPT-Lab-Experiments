@@ -269,7 +269,6 @@ plt.show()
 
 ## Output Images:
 
-Upload the 16 images into an `outputs` folder beside this README. The following relative links will display them on GitHub.
 
 ### 1. Original Image
 
