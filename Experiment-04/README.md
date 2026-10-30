@@ -138,13 +138,21 @@ else:
 
 The following outputs are obtained by executing the program:
 
-1. **Original Image:** Displays the input image.
-2. **Translated Image:** Shifts the image 100 pixels horizontally and 50 pixels vertically.
-3. **Scaled Image:** Enlarges the image by a factor of 5 horizontally and 2 vertically.
-4. **Sheared Image:** Applies horizontal and vertical shearing.
-5. **Reflected Image:** Displays the reflected image.
-6. **Rotated Image:** Rotates the image by 45 degrees.
-7. **Cropped Image:** Displays the selected region of size 200 × 150 pixels, starting at coordinates (100, 100), provided the region lies within the image boundaries.
+
+<img width="560" height="391" alt="image" src="https://github.com/user-attachments/assets/7a8bfb59-4f8b-4985-9587-c16b14f37746" />
+
+<img width="547" height="370" alt="image" src="https://github.com/user-attachments/assets/7176aff8-a928-4e37-864e-e687763679d6" />
+
+<img width="540" height="177" alt="image" src="https://github.com/user-attachments/assets/26ff2ae8-c351-44ca-9022-b797ed9f8ce4" />
+
+<img width="536" height="382" alt="image" src="https://github.com/user-attachments/assets/dc48f704-1cfa-4f4c-b40e-1e99a36c9abc" />
+
+<img width="553" height="388" alt="image" src="https://github.com/user-attachments/assets/252dfe5d-c140-4ce9-8a04-ec7ae45b925a" />
+
+<img width="536" height="382" alt="image" src="https://github.com/user-attachments/assets/f7f65e6d-65d9-47e9-95f1-713f1a47fc0c" />
+
+<img width="566" height="415" alt="image" src="https://github.com/user-attachments/assets/f1cf02a7-3a02-48e8-9fe5-c3f153e5e7f9" />
+
 
 ## RESULT
 
