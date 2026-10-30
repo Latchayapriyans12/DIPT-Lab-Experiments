@@ -222,19 +222,25 @@ else:
 
 The following results are obtained:
 
-1. Original image.
-2. Average-filtered image.
-3. Weighted-average-filtered image.
-4. Gaussian-blurred image.
-5. Median-filtered image.
-6. Laplacian kernel output.
-7. Laplacian operator output.
-8. Bilateral-filtered image.
-9. Box-filtered image.
-10. Median-filtered image using a 3 × 3 kernel.
-11. Unsharp-masked image.
-12. Sharpened image.
-13. High-pass filter result compared with the original and Gaussian-blurred images.
+<img width="397" height="417" alt="image" src="https://github.com/user-attachments/assets/cbe9e94e-b1a6-462d-a0c5-e93ee2a4ca4b" />
+
+<img width="627" height="335" alt="image" src="https://github.com/user-attachments/assets/5d8843d0-1114-4ee3-983a-388c8bede205" />
+
+<img width="422" height="420" alt="image" src="https://github.com/user-attachments/assets/6cd4fb33-a3e9-4b8a-a22d-74e502957ea6" />
+
+<img width="373" height="406" alt="image" src="https://github.com/user-attachments/assets/6ac41569-6c58-492a-abc8-a09a2f4063ae" />
+
+<img width="425" height="417" alt="image" src="https://github.com/user-attachments/assets/897356fc-3afe-4047-89b2-2ff5bd4ab046" />
+
+<img width="423" height="417" alt="image" src="https://github.com/user-attachments/assets/007d2e1f-f444-455e-8e86-1c336f67e4c6" />
+
+<img width="417" height="405" alt="image" src="https://github.com/user-attachments/assets/eab636b0-0932-4eab-a113-be1a6915ba44" />
+
+<img width="612" height="562" alt="image" src="https://github.com/user-attachments/assets/b4ac75a4-6433-4d5d-b244-31a27012b657" />
+
+<img width="627" height="227" alt="image" src="https://github.com/user-attachments/assets/e2d96a00-5b2e-4753-ab81-b3a183c5415b" />
+
+<img width="640" height="452" alt="image" src="https://github.com/user-attachments/assets/c6951e41-232e-4df8-8d68-d897ec5df5cb" />
 
 ## RESULT
 
