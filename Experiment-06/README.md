@@ -210,22 +210,19 @@ print("All edge detection images saved successfully.")
 
 The program produces the following outputs:
 
-1. Original image.
-2. Grayscale image.
-3. Sobel edge detection.
-4. Prewitt edge detection.
-5. Roberts edge detection.
-6. Laplacian edge detection.
-7. Canny edge detection.
-8. A combined comparison of the original image and all five edge detection results.
+<img width="625" height="282" alt="image" src="https://github.com/user-attachments/assets/9be4227c-eb0b-4fc3-9d86-d39aa2902d03" />
 
-The output images are saved as:
+<img width="478" height="412" alt="image" src="https://github.com/user-attachments/assets/a60f990d-3919-4c12-8371-05ab3d6a51e2" />
 
-- `sobel_output.png`
-- `prewitt_output.png`
-- `roberts_output.png`
-- `laplacian_output.png`
-- `canny_output.png`
+<img width="440" height="412" alt="image" src="https://github.com/user-attachments/assets/4be9ee7f-c9d1-4dec-ac7e-327e3c68e2f0" />
+
+<img width="443" height="420" alt="image" src="https://github.com/user-attachments/assets/28b10599-149c-4b70-89a6-cc8a9700df28" />
+
+<img width="473" height="410" alt="image" src="https://github.com/user-attachments/assets/881fba58-7491-47c3-9854-3dff7590a292" />
+
+<img width="432" height="406" alt="image" src="https://github.com/user-attachments/assets/0fa5edb3-ff68-4299-9480-04b5e759c907" />
+
+<img width="626" height="397" alt="image" src="https://github.com/user-attachments/assets/83832400-acb0-45f7-9d36-3ce8f08e6468" />
 
 ## RESULT
 
