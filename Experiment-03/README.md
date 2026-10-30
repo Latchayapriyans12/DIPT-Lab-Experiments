@@ -328,55 +328,60 @@ plt.show()
 
 ### 1. Original Grayscale Image
 
-The input image is displayed in grayscale.
+<img width="652" height="463" alt="image" src="https://github.com/user-attachments/assets/ced1f860-d291-416d-84ec-d64a7d5fbb41" />
 
 ### 2. Original Grayscale Histogram
 
-The distribution of grayscale pixel intensities is plotted.
+<img width="622" height="462" alt="image" src="https://github.com/user-attachments/assets/1572401b-c639-46a4-b2b0-9191ba7c6994" />
 
 ### 3. Equalized Histogram
 
-The pixel-intensity distribution after histogram equalization is displayed.
+<img width="610" height="230" alt="image" src="https://github.com/user-attachments/assets/5c5c1c04-0a5d-4ccf-9517-acff6ab2db66" />
 
 ### 4. Equalized Grayscale Image
 
-The grayscale image after applying histogram equalization is displayed.
+<img width="532" height="378" alt="image" src="https://github.com/user-attachments/assets/14b0ce7e-f198-42a7-af20-b1e65b38bc0a" />
 
 ### 5. Original Colour Image
 
-The original colour image is displayed.
+<img width="551" height="380" alt="image" src="https://github.com/user-attachments/assets/b2ca8faf-78ab-449c-adf7-384afa949505" />
 
 ### 6. Equalized Colour Image
 
-The equalized colour image is displayed beside the original image.
+<img width="632" height="501" alt="image" src="https://github.com/user-attachments/assets/51a85c96-ceb9-42ab-86fb-635ab2c04b6d" />
 
 ### 7. Original and Equalized Grayscale Histograms
 
-The grayscale histograms of the original and equalized colour images are compared.
+<img width="632" height="501" alt="image" src="https://github.com/user-attachments/assets/62b3ea5f-a389-47a6-9418-c80624229d7f" />
+
 
 ### 8. Original RGB Image
+<img width="557" height="383" alt="image" src="https://github.com/user-attachments/assets/90bece7a-7d89-465a-bc7d-649c8f6f8eb3" />
 
-The original image is displayed in RGB colour format.
 
 ### 9. Red, Green, and Blue Channels
 
-Each RGB channel is displayed separately in grayscale.
+<img width="622" height="161" alt="image" src="https://github.com/user-attachments/assets/f30bf44c-1fae-4f28-91ad-d0ac6b612a58" />
 
 ### 10. Individual RGB Histograms
 
-The pixel-intensity distributions of the Red, Green, and Blue channels are plotted individually.
+<img width="645" height="326" alt="image" src="https://github.com/user-attachments/assets/d90a3737-075c-4384-9e9a-d6fe18c75f9c" />
+
+<img width="625" height="457" alt="image" src="https://github.com/user-attachments/assets/8df6c122-296a-41c7-b6f9-9aadd13ed22c" />
+
+<img width="630" height="452" alt="image" src="https://github.com/user-attachments/assets/6b5984a2-12b5-4f7f-b23b-e5f33136032d" />
 
 ### 11. Combined RGB Histogram
 
-The three channel histograms are plotted together for comparison.
+<img width="675" height="286" alt="image" src="https://github.com/user-attachments/assets/6843d288-b1e4-4308-aa36-b9acb393de0c" />
 
 ### 12. RGB Channel Comparison
 
-The original RGB image is displayed alongside its Red, Green, and Blue channels.
+<img width="635" height="445" alt="image" src="https://github.com/user-attachments/assets/1adba94b-76e0-45a9-918a-4709a42724cd" />
 
 ### 13. Individual Colour Components
 
-The red, green, and blue colour components are displayed separately.
+<img width="638" height="153" alt="image" src="https://github.com/user-attachments/assets/03fd155f-7f32-4a46-ba1c-9a4debefc717" />
 
 ## Result:
 
