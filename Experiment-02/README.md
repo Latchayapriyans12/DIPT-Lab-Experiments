@@ -174,21 +174,20 @@ cap.release()
 
 ### 1. Captured Frame
 
-The webcam captures one frame and saves it as `captured_frame.jpg`. The saved image is then displayed.
+<img width="505" height="370" alt="image" src="https://github.com/user-attachments/assets/343a4047-2629-4a96-b49c-7295b8602614" />
 
 ### 2. Live Video
 
-The webcam video is displayed frame by frame for up to 50 iterations.
+<img width="530" height="417" alt="image" src="https://github.com/user-attachments/assets/f4ba9283-1949-424f-a65e-144f4cc4ceb5" />
 
 ### 3. Resized Video
 
-The live video is resized to 320 × 240 pixels and displayed.
+<img width="642" height="417" alt="image" src="https://github.com/user-attachments/assets/ec1cec55-3042-4f99-8014-a196708e3806" />
 
 ### 4. Rotated Video
 
-The webcam video is rotated 90 degrees clockwise and displayed.
+<img width="326" height="430" alt="image" src="https://github.com/user-attachments/assets/1a803787-2d63-49ea-b276-5de80ee9c174" />
 
-*Note: These outputs are generated when the notebook is executed with a working webcam. The uploaded notebook does not contain saved output images for these operations.*
 
 ## Result:
 
