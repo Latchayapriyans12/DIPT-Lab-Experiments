@@ -13,6 +13,9 @@ To detect straight lines in an image using the Hough Transform technique in Open
 ## Input Image
 `Qn_7_.jpg`
 
+Name: Latchaya Priyan S
+Register Number: 212224230139
+
 ## Algorithm
 1. Import the required libraries: OpenCV, NumPy, and Matplotlib.
 2. Load the input image using `cv2.imread()`.
@@ -80,7 +83,6 @@ plt.show()
 ```
 
 ## Output
-The program displays the following results:
 <img width="593" height="387" alt="image" src="https://github.com/user-attachments/assets/f318c3ae-0f11-4150-a8c8-314f59c97577" />
 
 <img width="602" height="391" alt="image" src="https://github.com/user-attachments/assets/dda141a9-016e-4355-8dee-af361f006799" />
