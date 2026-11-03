@@ -14,6 +14,7 @@ To detect straight lines in an image using the Hough Transform technique in Open
 `Qn_7_.jpg`
 
 Name: Latchaya Priyan S
+
 Register Number: 212224230139
 
 ## Algorithm
